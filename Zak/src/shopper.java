@@ -2,6 +2,7 @@
 public class shopper {
 	int num_items;
 	double unit_cost;
+	int point;
 	String item_name;
 	double total_cost;
 	shopper(int num_items, double unit_cost, String item_name)
